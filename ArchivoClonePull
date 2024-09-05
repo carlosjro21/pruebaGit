@@ -1,2 +1,2 @@
 git clone "URL del la carpeta completa de los archivos"    (Se usa para descargar una carpeta completa de archivos)
-git pull "nombre del archivo"    (Se usa oara descargar un solo archivo)
+git pull origin master    (Se usa para descargar solo los archviso que han sido modificado en el repositorio)
